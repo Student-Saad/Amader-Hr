@@ -1,0 +1,22 @@
+[
+    {
+        "domain": "amaderit.net",
+        "expiry": 1746784799,
+        "httpOnly": true,
+        "name": "amaderhr_session",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJpdiI6InV2WXExSnlRbnpGUFhwR0N5WWlaZWc9PSIsInZhbHVlIjoiM2xiN2dibmFtZEZSMHpSWHNiaGhKVDZkc2xId1hKeEc2SEZJK0I0WVJzUVdSMC9uTkJKd0Jld1pwRjV4S1ZhdzRtYzM4cWx2RkpoZDN1emJ0T3A5Y2JSVUVvM0FKN3UvMFZpR01lV2RQWEVGb1NMRmVTQW5Iay82T05DTE1XYk0iLCJtYWMiOiJlNjAzOTQ1ZDQ5NjFmZjhiYTViYmQ3MTNmNzExYzJjYWExM2VmOGNkNWJmYjc4NTZmMTFiMjg0ZjAxNjgyMmU0IiwidGFnIjoiIn0%3D"
+    },
+    {
+        "domain": "amaderit.net",
+        "expiry": 1746784799,
+        "httpOnly": false,
+        "name": "XSRF-TOKEN",
+        "path": "/",
+        "sameSite": "Lax",
+        "secure": true,
+        "value": "eyJpdiI6IjZSbUdvSDJBWWxXaDNsYzV1WjdwSkE9PSIsInZhbHVlIjoieC9HOEpUU0FxT2x1REkzWFFhcHNoQkVwZWVmS3JsMW9UMDRGd2lYN25JUXprRDRlWENMd1gzUzEwSDc4cTFLM3JhRmR6blcwNHhHWGppa05NRnlEVTYramRoanlWVkxwd29pRUFTUlpUWVhWU2diK0RuS2o5S204NnVOQU93b2siLCJtYWMiOiJlY2RiODcwMjdlNDkzYzgzMzk2Yzg5N2FjM2I1MTA3YzJhODI5MzMwNjE4Y2Q4MzE4ODE5ZDI3NmY5OWZkYmE5IiwidGFnIjoiIn0%3D"
+    }
+]
